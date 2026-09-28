@@ -1,0 +1,459 @@
+{
+  "game": "kl8",
+  "ruleVersion": "zhcw-2025-12-29",
+  "stakeFen": 200,
+  "poolSize": 80,
+  "drawCount": 20,
+  "plays": [
+    {
+      "pickCount": 1,
+      "name": "选一",
+      "tiers": [
+        {
+          "hitCount": 1,
+          "name": "选一中一",
+          "amountFen": 450,
+          "probability": 0.25
+        },
+        {
+          "hitCount": 0,
+          "name": "选一中零",
+          "amountFen": 0,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "pickCount": 2,
+      "name": "选二",
+      "tiers": [
+        {
+          "hitCount": 2,
+          "name": "选二中二",
+          "amountFen": 1900,
+          "probability": 0.060126582278481
+        },
+        {
+          "hitCount": 1,
+          "name": "选二中一",
+          "amountFen": 0,
+          "probability": 0.379746835443038
+        },
+        {
+          "hitCount": 0,
+          "name": "选二中零",
+          "amountFen": 0,
+          "probability": 0.560126582278481
+        }
+      ]
+    },
+    {
+      "pickCount": 3,
+      "name": "选三",
+      "tiers": [
+        {
+          "hitCount": 3,
+          "name": "选三中三",
+          "amountFen": 5200,
+          "probability": 0.0138753651411879
+        },
+        {
+          "hitCount": 2,
+          "name": "选三中二",
+          "amountFen": 300,
+          "probability": 0.138753651411879
+        },
+        {
+          "hitCount": 1,
+          "name": "选三中一",
+          "amountFen": 0,
+          "probability": 0.430866601752678
+        },
+        {
+          "hitCount": 0,
+          "name": "选三中零",
+          "amountFen": 0,
+          "probability": 0.416504381694255
+        }
+      ]
+    },
+    {
+      "pickCount": 4,
+      "name": "选四",
+      "tiers": [
+        {
+          "hitCount": 4,
+          "name": "选四中四",
+          "amountFen": 9300,
+          "probability": 0.00306339230389863
+        },
+        {
+          "hitCount": 3,
+          "name": "选四中三",
+          "amountFen": 500,
+          "probability": 0.0432478913491572
+        },
+        {
+          "hitCount": 2,
+          "name": "选四中二",
+          "amountFen": 300,
+          "probability": 0.212635465800023
+        },
+        {
+          "hitCount": 1,
+          "name": "选四中一",
+          "amountFen": 0,
+          "probability": 0.432731825136888
+        },
+        {
+          "hitCount": 0,
+          "name": "选四中零",
+          "amountFen": 0,
+          "probability": 0.308321425410033
+        }
+      ]
+    },
+    {
+      "pickCount": 5,
+      "name": "选五",
+      "tiers": [
+        {
+          "hitCount": 5,
+          "name": "选五中五",
+          "amountFen": 100000,
+          "probability": 0.000644924695557607
+        },
+        {
+          "hitCount": 4,
+          "name": "选五中四",
+          "amountFen": 2000,
+          "probability": 0.0120923380417051
+        },
+        {
+          "hitCount": 3,
+          "name": "选五中三",
+          "amountFen": 300,
+          "probability": 0.0839350522894827
+        },
+        {
+          "hitCount": 2,
+          "name": "选五中二",
+          "amountFen": 0,
+          "probability": 0.270457390710555
+        },
+        {
+          "hitCount": 1,
+          "name": "选五中一",
+          "amountFen": 0,
+          "probability": 0.405686086065833
+        },
+        {
+          "hitCount": 0,
+          "name": "选五中零",
+          "amountFen": 0,
+          "probability": 0.227184208196866
+        }
+      ]
+    },
+    {
+      "pickCount": 6,
+      "name": "选六",
+      "tiers": [
+        {
+          "hitCount": 6,
+          "name": "选六中六",
+          "amountFen": 288000,
+          "probability": 0.000128984939111521
+        },
+        {
+          "hitCount": 5,
+          "name": "选六中五",
+          "amountFen": 3000,
+          "probability": 0.00309563853867651
+        },
+        {
+          "hitCount": 4,
+          "name": "选六中四",
+          "amountFen": 1000,
+          "probability": 0.0285379177784241
+        },
+        {
+          "hitCount": 3,
+          "name": "选六中三",
+          "amountFen": 300,
+          "probability": 0.129819547541067
+        },
+        {
+          "hitCount": 2,
+          "name": "选六中二",
+          "amountFen": 0,
+          "probability": 0.308321425410033
+        },
+        {
+          "hitCount": 1,
+          "name": "选六中一",
+          "amountFen": 0,
+          "probability": 0.363494733114986
+        },
+        {
+          "hitCount": 0,
+          "name": "选六中零",
+          "amountFen": 0,
+          "probability": 0.166601752677702
+        }
+      ]
+    },
+    {
+      "pickCount": 7,
+      "name": "选七",
+      "tiers": [
+        {
+          "hitCount": 7,
+          "name": "选七中七",
+          "amountFen": 850000,
+          "probability": 0.0000244025560481257
+        },
+        {
+          "hitCount": 6,
+          "name": "选七中六",
+          "amountFen": 30000,
+          "probability": 0.00073207668144377
+        },
+        {
+          "hitCount": 5,
+          "name": "选七中五",
+          "amountFen": 3000,
+          "probability": 0.00863850484103649
+        },
+        {
+          "hitCount": 4,
+          "name": "选七中四",
+          "amountFen": 400,
+          "probability": 0.0521909667479288
+        },
+        {
+          "hitCount": 3,
+          "name": "选七中三",
+          "amountFen": 0,
+          "probability": 0.174993241448938
+        },
+        {
+          "hitCount": 2,
+          "name": "选七中二",
+          "amountFen": 0,
+          "probability": 0.326654050704684
+        },
+        {
+          "hitCount": 1,
+          "name": "选七中一",
+          "amountFen": 0,
+          "probability": 0.315192505065923
+        },
+        {
+          "hitCount": 0,
+          "name": "选七全不中",
+          "amountFen": 200,
+          "probability": 0.121574251953999
+        }
+      ]
+    },
+    {
+      "pickCount": 8,
+      "name": "选八",
+      "tiers": [
+        {
+          "hitCount": 8,
+          "name": "选八中八",
+          "amountFen": 5000000,
+          "probability": 0.00000434566066610457
+        },
+        {
+          "hitCount": 7,
+          "name": "选八中七",
+          "amountFen": 80000,
+          "probability": 0.000160455163056169
+        },
+        {
+          "hitCount": 6,
+          "name": "选八中六",
+          "amountFen": 8000,
+          "probability": 0.00236671365507849
+        },
+        {
+          "hitCount": 5,
+          "name": "选八中五",
+          "amountFen": 1000,
+          "probability": 0.0183025855992737
+        },
+        {
+          "hitCount": 4,
+          "name": "选八中四",
+          "amountFen": 300,
+          "probability": 0.0815037014967655
+        },
+        {
+          "hitCount": 3,
+          "name": "选八中三",
+          "amountFen": 0,
+          "probability": 0.214786225120888
+        },
+        {
+          "hitCount": 2,
+          "name": "选八中二",
+          "amountFen": 0,
+          "probability": 0.328145621712468
+        },
+        {
+          "hitCount": 1,
+          "name": "选八中一",
+          "amountFen": 0,
+          "probability": 0.266464113871778
+        },
+        {
+          "hitCount": 0,
+          "name": "选八全不中",
+          "amountFen": 200,
+          "probability": 0.0882662377200265
+        }
+      ]
+    },
+    {
+      "pickCount": 9,
+      "name": "选九",
+      "tiers": [
+        {
+          "hitCount": 9,
+          "name": "选九中九",
+          "amountFen": 25000000,
+          "probability": 0.000000724276777684095
+        },
+        {
+          "hitCount": 8,
+          "name": "选九中八",
+          "amountFen": 200000,
+          "probability": 0.0000325924549957843
+        },
+        {
+          "hitCount": 7,
+          "name": "选九中七",
+          "amountFen": 22500,
+          "probability": 0.000591678413769622
+        },
+        {
+          "hitCount": 6,
+          "name": "选九中六",
+          "amountFen": 2200,
+          "probability": 0.00571955799977302
+        },
+        {
+          "hitCount": 5,
+          "name": "选九中五",
+          "amountFen": 500,
+          "probability": 0.0326014805987062
+        },
+        {
+          "hitCount": 4,
+          "name": "选九中四",
+          "amountFen": 300,
+          "probability": 0.114105182095472
+        },
+        {
+          "hitCount": 3,
+          "name": "选九中三",
+          "amountFen": 0,
+          "probability": 0.246109216284351
+        },
+        {
+          "hitCount": 2,
+          "name": "选九中二",
+          "amountFen": 0,
+          "probability": 0.316426135222737
+        },
+        {
+          "hitCount": 1,
+          "name": "选九中一",
+          "amountFen": 0,
+          "probability": 0.220665594300066
+        },
+        {
+          "hitCount": 0,
+          "name": "选九全不中",
+          "amountFen": 200,
+          "probability": 0.0637478383533525
+        }
+      ]
+    },
+    {
+      "pickCount": 10,
+      "name": "选十",
+      "tiers": [
+        {
+          "hitCount": 10,
+          "name": "选十中十",
+          "amountFen": 500000000,
+          "probability": 0.000000112211895134156
+        },
+        {
+          "hitCount": 9,
+          "name": "选十中九",
+          "amountFen": 800000,
+          "probability": 0.0000061206488254994
+        },
+        {
+          "hitCount": 8,
+          "name": "选十中八",
+          "amountFen": 72000,
+          "probability": 0.000135419355264174
+        },
+        {
+          "hitCount": 7,
+          "name": "选十中七",
+          "amountFen": 8000,
+          "probability": 0.00161114309852761
+        },
+        {
+          "hitCount": 6,
+          "name": "选十中六",
+          "amountFen": 500,
+          "probability": 0.0114793945770092
+        },
+        {
+          "hitCount": 5,
+          "name": "选十中五",
+          "amountFen": 300,
+          "probability": 0.0514276877050013
+        },
+        {
+          "hitCount": 4,
+          "name": "选十中四",
+          "amountFen": 0,
+          "probability": 0.147318897071618
+        },
+        {
+          "hitCount": 3,
+          "name": "选十中三",
+          "amountFen": 0,
+          "probability": 0.267402367793862
+        },
+        {
+          "hitCount": 2,
+          "name": "选十中二",
+          "amountFen": 0,
+          "probability": 0.295256781105723
+        },
+        {
+          "hitCount": 1,
+          "name": "选十中一",
+          "amountFen": 0,
+          "probability": 0.179571375643246
+        },
+        {
+          "hitCount": 0,
+          "name": "选十全不中",
+          "amountFen": 200,
+          "probability": 0.0457907007890278
+        }
+      ]
+    }
+  ]
+}

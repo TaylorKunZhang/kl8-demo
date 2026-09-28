@@ -1,0 +1,2795 @@
+{
+  "game": "kl8",
+  "ruleVersion": "zhcw-2025-12-29",
+  "stakeFen": 200,
+  "poolSize": 80,
+  "drawCount": 20,
+  "compoundMaxExtra": 5,
+  "plays": [
+    {
+      "pickCount": 1,
+      "name": "选一",
+      "compounds": [
+        {
+          "selectCount": 2,
+          "name": "复式2选1",
+          "costFen": 400,
+          "outcomes": [
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.060126582278481
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 450,
+              "probability": 0.379746835443038
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.560126582278481
+            }
+          ]
+        },
+        {
+          "selectCount": 3,
+          "name": "复式3选1",
+          "costFen": 600,
+          "outcomes": [
+            {
+              "matchCount": 3,
+              "amountFen": 1350,
+              "probability": 0.0138753651411879
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.138753651411879
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 450,
+              "probability": 0.430866601752678
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.416504381694255
+            }
+          ]
+        },
+        {
+          "selectCount": 4,
+          "name": "复式4选1",
+          "costFen": 800,
+          "outcomes": [
+            {
+              "matchCount": 4,
+              "amountFen": 1800,
+              "probability": 0.00306339230389863
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1350,
+              "probability": 0.0432478913491572
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.212635465800023
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 450,
+              "probability": 0.432731825136888
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.308321425410033
+            }
+          ]
+        },
+        {
+          "selectCount": 5,
+          "name": "复式5选1",
+          "costFen": 1000,
+          "outcomes": [
+            {
+              "matchCount": 5,
+              "amountFen": 2250,
+              "probability": 0.000644924695557607
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 1800,
+              "probability": 0.0120923380417051
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1350,
+              "probability": 0.0839350522894827
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.270457390710555
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 450,
+              "probability": 0.405686086065833
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.227184208196866
+            }
+          ]
+        },
+        {
+          "selectCount": 6,
+          "name": "复式6选1",
+          "costFen": 1200,
+          "outcomes": [
+            {
+              "matchCount": 6,
+              "amountFen": 2700,
+              "probability": 0.000128984939111521
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 2250,
+              "probability": 0.00309563853867651
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 1800,
+              "probability": 0.0285379177784241
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1350,
+              "probability": 0.129819547541067
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.308321425410033
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 450,
+              "probability": 0.363494733114986
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.166601752677702
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 2,
+      "name": "选二",
+      "compounds": [
+        {
+          "selectCount": 3,
+          "name": "复式3选2",
+          "costFen": 600,
+          "outcomes": [
+            {
+              "matchCount": 3,
+              "amountFen": 5700,
+              "probability": 0.0138753651411879
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1900,
+              "probability": 0.138753651411879
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.430866601752678
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.416504381694255
+            }
+          ]
+        },
+        {
+          "selectCount": 4,
+          "name": "复式4选2",
+          "costFen": 1200,
+          "outcomes": [
+            {
+              "matchCount": 4,
+              "amountFen": 11400,
+              "probability": 0.00306339230389863
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 5700,
+              "probability": 0.0432478913491572
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1900,
+              "probability": 0.212635465800023
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.432731825136888
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.308321425410033
+            }
+          ]
+        },
+        {
+          "selectCount": 5,
+          "name": "复式5选2",
+          "costFen": 2000,
+          "outcomes": [
+            {
+              "matchCount": 5,
+              "amountFen": 19000,
+              "probability": 0.000644924695557607
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 11400,
+              "probability": 0.0120923380417051
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 5700,
+              "probability": 0.0839350522894827
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1900,
+              "probability": 0.270457390710555
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.405686086065833
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.227184208196866
+            }
+          ]
+        },
+        {
+          "selectCount": 6,
+          "name": "复式6选2",
+          "costFen": 3000,
+          "outcomes": [
+            {
+              "matchCount": 6,
+              "amountFen": 28500,
+              "probability": 0.000128984939111521
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 19000,
+              "probability": 0.00309563853867651
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 11400,
+              "probability": 0.0285379177784241
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 5700,
+              "probability": 0.129819547541067
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1900,
+              "probability": 0.308321425410033
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.363494733114986
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.166601752677702
+            }
+          ]
+        },
+        {
+          "selectCount": 7,
+          "name": "复式7选2",
+          "costFen": 4200,
+          "outcomes": [
+            {
+              "matchCount": 7,
+              "amountFen": 39900,
+              "probability": 2.44025560481257e-05
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 28500,
+              "probability": 0.00073207668144377
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 19000,
+              "probability": 0.00863850484103649
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 11400,
+              "probability": 0.0521909667479288
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 5700,
+              "probability": 0.174993241448938
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1900,
+              "probability": 0.326654050704684
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.315192505065923
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.121574251953999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 3,
+      "name": "选三",
+      "compounds": [
+        {
+          "selectCount": 4,
+          "name": "复式4选3",
+          "costFen": 800,
+          "outcomes": [
+            {
+              "matchCount": 4,
+              "amountFen": 20800,
+              "probability": 0.00306339230389863
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 6100,
+              "probability": 0.0432478913491572
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 600,
+              "probability": 0.212635465800023
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.432731825136888
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.308321425410033
+            }
+          ]
+        },
+        {
+          "selectCount": 5,
+          "name": "复式5选3",
+          "costFen": 2000,
+          "outcomes": [
+            {
+              "matchCount": 5,
+              "amountFen": 52000,
+              "probability": 0.000644924695557607
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 22600,
+              "probability": 0.0120923380417051
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 7000,
+              "probability": 0.0839350522894827
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.270457390710555
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.405686086065833
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.227184208196866
+            }
+          ]
+        },
+        {
+          "selectCount": 6,
+          "name": "复式6选3",
+          "costFen": 4000,
+          "outcomes": [
+            {
+              "matchCount": 6,
+              "amountFen": 104000,
+              "probability": 0.000128984939111521
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 55000,
+              "probability": 0.00309563853867651
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 24400,
+              "probability": 0.0285379177784241
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 7900,
+              "probability": 0.129819547541067
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1200,
+              "probability": 0.308321425410033
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.363494733114986
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.166601752677702
+            }
+          ]
+        },
+        {
+          "selectCount": 7,
+          "name": "复式7选3",
+          "costFen": 7000,
+          "outcomes": [
+            {
+              "matchCount": 7,
+              "amountFen": 182000,
+              "probability": 2.44025560481257e-05
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 108500,
+              "probability": 0.00073207668144377
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 58000,
+              "probability": 0.00863850484103649
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 26200,
+              "probability": 0.0521909667479288
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 8800,
+              "probability": 0.174993241448938
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1500,
+              "probability": 0.326654050704684
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.315192505065923
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.121574251953999
+            }
+          ]
+        },
+        {
+          "selectCount": 8,
+          "name": "复式8选3",
+          "costFen": 11200,
+          "outcomes": [
+            {
+              "matchCount": 8,
+              "amountFen": 291200,
+              "probability": 4.34566066610457e-06
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 188300,
+              "probability": 0.000160455163056169
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 113000,
+              "probability": 0.00236671365507849
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 61000,
+              "probability": 0.0183025855992737
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 28000,
+              "probability": 0.0815037014967655
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 9700,
+              "probability": 0.214786225120888
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1800,
+              "probability": 0.328145621712468
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.266464113871778
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0882662377200265
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 4,
+      "name": "选四",
+      "compounds": [
+        {
+          "selectCount": 5,
+          "name": "复式5选4",
+          "costFen": 1000,
+          "outcomes": [
+            {
+              "matchCount": 5,
+              "amountFen": 46500,
+              "probability": 0.000644924695557607
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 11300,
+              "probability": 0.0120923380417051
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1900,
+              "probability": 0.0839350522894827
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 900,
+              "probability": 0.270457390710555
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.405686086065833
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.227184208196866
+            }
+          ]
+        },
+        {
+          "selectCount": 6,
+          "name": "复式6选4",
+          "costFen": 3000,
+          "outcomes": [
+            {
+              "matchCount": 6,
+              "amountFen": 139500,
+              "probability": 0.000128984939111521
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 51500,
+              "probability": 0.00309563853867651
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 15100,
+              "probability": 0.0285379177784241
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 4200,
+              "probability": 0.129819547541067
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1800,
+              "probability": 0.308321425410033
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.363494733114986
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.166601752677702
+            }
+          ]
+        },
+        {
+          "selectCount": 7,
+          "name": "复式7选4",
+          "costFen": 7000,
+          "outcomes": [
+            {
+              "matchCount": 7,
+              "amountFen": 325500,
+              "probability": 2.44025560481257e-05
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 149500,
+              "probability": 0.00073207668144377
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 59500,
+              "probability": 0.00863850484103649
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 20700,
+              "probability": 0.0521909667479288
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 7400,
+              "probability": 0.174993241448938
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 3000,
+              "probability": 0.326654050704684
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.315192505065923
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.121574251953999
+            }
+          ]
+        },
+        {
+          "selectCount": 8,
+          "name": "复式8选4",
+          "costFen": 14000,
+          "outcomes": [
+            {
+              "matchCount": 8,
+              "amountFen": 651000,
+              "probability": 4.34566066610457e-06
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 343000,
+              "probability": 0.000160455163056169
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 164000,
+              "probability": 0.00236671365507849
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 70500,
+              "probability": 0.0183025855992737
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 28100,
+              "probability": 0.0815037014967655
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 11500,
+              "probability": 0.214786225120888
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 4500,
+              "probability": 0.328145621712468
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.266464113871778
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0882662377200265
+            }
+          ]
+        },
+        {
+          "selectCount": 9,
+          "name": "复式9选4",
+          "costFen": 25200,
+          "outcomes": [
+            {
+              "matchCount": 9,
+              "amountFen": 1171800,
+              "probability": 7.24276777684095e-07
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 679000,
+              "probability": 3.25924549957843e-05
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 366800,
+              "probability": 0.000591678413769622
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 183000,
+              "probability": 0.00571955799977302
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 84500,
+              "probability": 0.0326014805987062
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 37300,
+              "probability": 0.114105182095472
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 16500,
+              "probability": 0.246109216284351
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 6300,
+              "probability": 0.316426135222737
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.220665594300066
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0637478383533525
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 5,
+      "name": "选五",
+      "compounds": [
+        {
+          "selectCount": 6,
+          "name": "复式6选5",
+          "costFen": 1200,
+          "outcomes": [
+            {
+              "matchCount": 6,
+              "amountFen": 600000,
+              "probability": 0.000128984939111521
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 110000,
+              "probability": 0.00309563853867651
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 5200,
+              "probability": 0.0285379177784241
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 900,
+              "probability": 0.129819547541067
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.308321425410033
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.363494733114986
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.166601752677702
+            }
+          ]
+        },
+        {
+          "selectCount": 7,
+          "name": "复式7选5",
+          "costFen": 4200,
+          "outcomes": [
+            {
+              "matchCount": 7,
+              "amountFen": 2100000,
+              "probability": 2.44025560481257e-05
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 630000,
+              "probability": 0.00073207668144377
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 123000,
+              "probability": 0.00863850484103649
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 9600,
+              "probability": 0.0521909667479288
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1800,
+              "probability": 0.174993241448938
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.326654050704684
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.315192505065923
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.121574251953999
+            }
+          ]
+        },
+        {
+          "selectCount": 8,
+          "name": "复式8选5",
+          "costFen": 11200,
+          "outcomes": [
+            {
+              "matchCount": 8,
+              "amountFen": 5600000,
+              "probability": 4.34566066610457e-06
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2170000,
+              "probability": 0.000160455163056169
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 666000,
+              "probability": 0.00236671365507849
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 139000,
+              "probability": 0.0183025855992737
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 15200,
+              "probability": 0.0815037014967655
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 3000,
+              "probability": 0.214786225120888
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.328145621712468
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.266464113871778
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0882662377200265
+            }
+          ]
+        },
+        {
+          "selectCount": 9,
+          "name": "复式9选5",
+          "costFen": 25200,
+          "outcomes": [
+            {
+              "matchCount": 9,
+              "amountFen": 12600000,
+              "probability": 7.24276777684095e-07
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 5740000,
+              "probability": 3.25924549957843e-05
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2250500,
+              "probability": 0.000591678413769622
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 708000,
+              "probability": 0.00571955799977302
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 158000,
+              "probability": 0.0326014805987062
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 22000,
+              "probability": 0.114105182095472
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 4500,
+              "probability": 0.246109216284351
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.316426135222737
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.220665594300066
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0637478383533525
+            }
+          ]
+        },
+        {
+          "selectCount": 10,
+          "name": "复式10选5",
+          "costFen": 50400,
+          "outcomes": [
+            {
+              "matchCount": 10,
+              "amountFen": 25200000,
+              "probability": 1.12211895134156e-07
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 12852000,
+              "probability": 6.1206488254994e-06
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 5896800,
+              "probability": 0.000135419355264174
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2341500,
+              "probability": 0.00161114309852761
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 756000,
+              "probability": 0.0114793945770092
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 180000,
+              "probability": 0.0514276877050013
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 30000,
+              "probability": 0.147318897071618
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 6300,
+              "probability": 0.267402367793862
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.295256781105723
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.179571375643246
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0457907007890278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 6,
+      "name": "选六",
+      "compounds": [
+        {
+          "selectCount": 7,
+          "name": "复式7选6",
+          "costFen": 1400,
+          "outcomes": [
+            {
+              "matchCount": 7,
+              "amountFen": 2016000,
+              "probability": 2.44025560481257e-05
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 306000,
+              "probability": 0.00073207668144377
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 11000,
+              "probability": 0.00863850484103649
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 4200,
+              "probability": 0.0521909667479288
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1200,
+              "probability": 0.174993241448938
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.326654050704684
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.315192505065923
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.121574251953999
+            }
+          ]
+        },
+        {
+          "selectCount": 8,
+          "name": "复式8选6",
+          "costFen": 5600,
+          "outcomes": [
+            {
+              "matchCount": 8,
+              "amountFen": 8064000,
+              "probability": 4.34566066610457e-06
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2079000,
+              "probability": 0.000160455163056169
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 339000,
+              "probability": 0.00236671365507849
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 27000,
+              "probability": 0.0183025855992737
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 10800,
+              "probability": 0.0815037014967655
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 3000,
+              "probability": 0.214786225120888
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.328145621712468
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.266464113871778
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0882662377200265
+            }
+          ]
+        },
+        {
+          "selectCount": 9,
+          "name": "复式9选6",
+          "costFen": 16800,
+          "outcomes": [
+            {
+              "matchCount": 9,
+              "amountFen": 24192000,
+              "probability": 7.24276777684095e-07
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 8232000,
+              "probability": 3.25924549957843e-05
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2177000,
+              "probability": 0.000591678413769622
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 393000,
+              "probability": 0.00571955799977302
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 54000,
+              "probability": 0.0326014805987062
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 22000,
+              "probability": 0.114105182095472
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 6000,
+              "probability": 0.246109216284351
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.316426135222737
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.220665594300066
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0637478383533525
+            }
+          ]
+        },
+        {
+          "selectCount": 10,
+          "name": "复式10选6",
+          "costFen": 42000,
+          "outcomes": [
+            {
+              "matchCount": 10,
+              "amountFen": 60480000,
+              "probability": 1.12211895134156e-07
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 24570000,
+              "probability": 6.1206488254994e-06
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 8470000,
+              "probability": 0.000135419355264174
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2320500,
+              "probability": 0.00161114309852761
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 474000,
+              "probability": 0.0114793945770092
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 95000,
+              "probability": 0.0514276877050013
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 39000,
+              "probability": 0.147318897071618
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 10500,
+              "probability": 0.267402367793862
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.295256781105723
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.179571375643246
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0457907007890278
+            }
+          ]
+        },
+        {
+          "selectCount": 11,
+          "name": "复式11选6",
+          "costFen": 92400,
+          "outcomes": [
+            {
+              "matchCount": 11,
+              "amountFen": 133056000,
+              "probability": 1.60302707334508e-08
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 61236000,
+              "probability": 1.05799786840775e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 25074000,
+              "probability": 2.83735791982079e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 8794800,
+              "probability": 0.000411416898374015
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2520000,
+              "probability": 0.0036078097242029
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 588000,
+              "probability": 0.0202037344555362
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 153000,
+              "probability": 0.0740803596702995
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 63000,
+              "probability": 0.178586581348043
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 16800,
+              "probability": 0.278384965042538
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.268074410781704
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 0,
+              "probability": 0.14391363105123
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 0,
+              "probability": 0.0327076434207342
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 7,
+      "name": "选七",
+      "compounds": [
+        {
+          "selectCount": 8,
+          "name": "复式8选7",
+          "costFen": 1600,
+          "outcomes": [
+            {
+              "matchCount": 8,
+              "amountFen": 6800000,
+              "probability": 4.34566066610457e-06
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1060000,
+              "probability": 0.000160455163056169
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 78000,
+              "probability": 0.00236671365507849
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 11000,
+              "probability": 0.0183025855992737
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 1600,
+              "probability": 0.0815037014967655
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.214786225120888
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.328145621712468
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 200,
+              "probability": 0.266464113871778
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 1600,
+              "probability": 0.0882662377200265
+            }
+          ]
+        },
+        {
+          "selectCount": 9,
+          "name": "复式9选7",
+          "costFen": 7200,
+          "outcomes": [
+            {
+              "matchCount": 9,
+              "amountFen": 30600000,
+              "probability": 7.24276777684095e-07
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 7640000,
+              "probability": 3.25924549957843e-05
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1333000,
+              "probability": 0.000591678413769622
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 150000,
+              "probability": 0.00571955799977302
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 26000,
+              "probability": 0.0326014805987062
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 4000,
+              "probability": 0.114105182095472
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.246109216284351
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 200,
+              "probability": 0.316426135222737
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 1600,
+              "probability": 0.220665594300066
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 7200,
+              "probability": 0.0637478383533525
+            }
+          ]
+        },
+        {
+          "selectCount": 10,
+          "name": "复式10选7",
+          "costFen": 24000,
+          "outcomes": [
+            {
+              "matchCount": 10,
+              "amountFen": 102000000,
+              "probability": 1.12211895134156e-07
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 33120000,
+              "probability": 6.1206488254994e-06
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 8648000,
+              "probability": 0.000135419355264174
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1683000,
+              "probability": 0.00161114309852761
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 252000,
+              "probability": 0.0114793945770092
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 50000,
+              "probability": 0.0514276877050013
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 8000,
+              "probability": 0.147318897071618
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 200,
+              "probability": 0.267402367793862
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1600,
+              "probability": 0.295256781105723
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 7200,
+              "probability": 0.179571375643246
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 24000,
+              "probability": 0.0457907007890278
+            }
+          ]
+        },
+        {
+          "selectCount": 11,
+          "name": "复式11选7",
+          "costFen": 66000,
+          "outcomes": [
+            {
+              "matchCount": 11,
+              "amountFen": 280500000,
+              "probability": 1.60302707334508e-08
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 108300000,
+              "probability": 1.05799786840775e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 36018000,
+              "probability": 2.83735791982079e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 9852000,
+              "probability": 0.000411416898374015
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2124000,
+              "probability": 0.0036078097242029
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 390000,
+              "probability": 0.0202037344555362
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 85000,
+              "probability": 0.0740803596702995
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 14200,
+              "probability": 0.178586581348043
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1600,
+              "probability": 0.278384965042538
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 7200,
+              "probability": 0.268074410781704
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 24000,
+              "probability": 0.14391363105123
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 66000,
+              "probability": 0.0327076434207342
+            }
+          ]
+        },
+        {
+          "selectCount": 12,
+          "name": "复式12选7",
+          "costFen": 158400,
+          "outcomes": [
+            {
+              "matchCount": 12,
+              "amountFen": 673200000,
+              "probability": 2.09090487827619e-09
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 294360000,
+              "probability": 1.67272390262095e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 115356000,
+              "probability": 5.42798906400499e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 39344400,
+              "probability": 9.5401019912815e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 11280000,
+              "probability": 0.00101959840031821
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 2670000,
+              "probability": 0.00702738589757782
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 570000,
+              "probability": 0.032208852030565
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 133200,
+              "probability": 0.099387314837172
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 24000,
+              "probability": 0.205762800248833
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 7200,
+              "probability": 0.279729819946126
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 24000,
+              "probability": 0.237770346954207
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 66000,
+              "probability": 0.113765716246032
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 158400,
+              "probability": 0.0232271670668982
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 8,
+      "name": "选八",
+      "compounds": [
+        {
+          "selectCount": 9,
+          "name": "复式9选8",
+          "costFen": 1800,
+          "outcomes": [
+            {
+              "matchCount": 9,
+              "amountFen": 45000000,
+              "probability": 7.24276777684095e-07
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 5640000,
+              "probability": 3.25924549957843e-05
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 216000,
+              "probability": 0.000591678413769622
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 30000,
+              "probability": 0.00571955799977302
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 5500,
+              "probability": 0.0326014805987062
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 1500,
+              "probability": 0.114105182095472
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.246109216284351
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.316426135222737
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 200,
+              "probability": 0.220665594300066
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 1800,
+              "probability": 0.0637478383533525
+            }
+          ]
+        },
+        {
+          "selectCount": 10,
+          "name": "复式10选8",
+          "costFen": 9000,
+          "outcomes": [
+            {
+              "matchCount": 10,
+              "amountFen": 225000000,
+              "probability": 1.12211895134156e-07
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 47880000,
+              "probability": 6.1206488254994e-06
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 6504000,
+              "probability": 0.000135419355264174
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 429000,
+              "probability": 0.00161114309852761
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 76500,
+              "probability": 0.0114793945770092
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 17500,
+              "probability": 0.0514276877050013
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 4500,
+              "probability": 0.147318897071618
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.267402367793862
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 200,
+              "probability": 0.295256781105723
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 1800,
+              "probability": 0.179571375643246
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 9000,
+              "probability": 0.0457907007890278
+            }
+          ]
+        },
+        {
+          "selectCount": 11,
+          "name": "复式11选8",
+          "costFen": 33000,
+          "outcomes": [
+            {
+              "matchCount": 11,
+              "amountFen": 825000000,
+              "probability": 1.60302707334508e-08
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 234600000,
+              "probability": 1.05799786840775e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 51432000,
+              "probability": 2.83735791982079e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 7648000,
+              "probability": 0.000411416898374015
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 750500,
+              "probability": 0.0036078097242029
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 162500,
+              "probability": 0.0202037344555362
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 42500,
+              "probability": 0.0740803596702995
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 10500,
+              "probability": 0.178586581348043
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 200,
+              "probability": 0.278384965042538
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 1800,
+              "probability": 0.268074410781704
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 9000,
+              "probability": 0.14391363105123
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 33000,
+              "probability": 0.0327076434207342
+            }
+          ]
+        },
+        {
+          "selectCount": 12,
+          "name": "复式12选8",
+          "costFen": 99000,
+          "outcomes": [
+            {
+              "matchCount": 12,
+              "amountFen": 2475000000,
+              "probability": 2.09090487827619e-09
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 851400000,
+              "probability": 1.67272390262095e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 245880000,
+              "probability": 5.42798906400499e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 55782000,
+              "probability": 9.5401019912815e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 9149000,
+              "probability": 0.00101959840031821
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1222500,
+              "probability": 0.00702738589757782
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 307500,
+              "probability": 0.032208852030565
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 87500,
+              "probability": 0.099387314837172
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 21200,
+              "probability": 0.205762800248833
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 1800,
+              "probability": 0.279729819946126
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 9000,
+              "probability": 0.237770346954207
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 33000,
+              "probability": 0.113765716246032
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 99000,
+              "probability": 0.0232271670668982
+            }
+          ]
+        },
+        {
+          "selectCount": 13,
+          "name": "复式13选8",
+          "costFen": 257400,
+          "outcomes": [
+            {
+              "matchCount": 13,
+              "amountFen": 6435000000,
+              "probability": 2.45988809208964e-10
+            },
+            {
+              "matchCount": 12,
+              "amountFen": 2538360000,
+              "probability": 2.3983908897874e-08
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 881496000,
+              "probability": 9.43367083316376e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 259092000,
+              "probability": 2.00622733051949e-05
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 61093800,
+              "probability": 0.000259897631453661
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 11105000,
+              "probability": 0.00218314010421076
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1897500,
+              "probability": 0.0123151493058043
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 535500,
+              "probability": 0.0475012901795307
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 161200,
+              "probability": 0.125878418975756
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 39600,
+              "probability": 0.227280478706227
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 9000,
+              "probability": 0.272736574447472
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 33000,
+              "probability": 0.206618617005661
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 99000,
+              "probability": 0.0888097564322577
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 257400,
+              "probability": 0.0163956473413399
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 9,
+      "name": "选九",
+      "compounds": [
+        {
+          "selectCount": 10,
+          "name": "复式10选9",
+          "costFen": 2000,
+          "outcomes": [
+            {
+              "matchCount": 10,
+              "amountFen": 250000000,
+              "probability": 1.12211895134156e-07
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 26800000,
+              "probability": 6.1206488254994e-06
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 580000,
+              "probability": 0.000135419355264174
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 82900,
+              "probability": 0.00161114309852761
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 11800,
+              "probability": 0.0114793945770092
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 4000,
+              "probability": 0.0514276877050013
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 1800,
+              "probability": 0.147318897071618
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.267402367793862
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.295256781105723
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 200,
+              "probability": 0.179571375643246
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 2000,
+              "probability": 0.0457907007890278
+            }
+          ]
+        },
+        {
+          "selectCount": 11,
+          "name": "复式11选9",
+          "costFen": 11000,
+          "outcomes": [
+            {
+              "matchCount": 11,
+              "amountFen": 1375000000,
+              "probability": 1.60302707334508e-08
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 259000000,
+              "probability": 1.05799786840775e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 29410000,
+              "probability": 2.83735791982079e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 1201600,
+              "probability": 0.000411416898374015
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 207100,
+              "probability": 0.0036078097242029
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 41500,
+              "probability": 0.0202037344555362
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 16500,
+              "probability": 0.0740803596702995
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 6300,
+              "probability": 0.178586581348043
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.278384965042538
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 200,
+              "probability": 0.268074410781704
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 2000,
+              "probability": 0.14391363105123
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 11000,
+              "probability": 0.0327076434207342
+            }
+          ]
+        },
+        {
+          "selectCount": 12,
+          "name": "复式12选9",
+          "costFen": 44000,
+          "outcomes": [
+            {
+              "matchCount": 12,
+              "amountFen": 5500000000,
+              "probability": 2.09090487827619e-09
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 1408000000,
+              "probability": 1.67272390262095e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 270700000,
+              "probability": 5.42798906400499e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 33014800,
+              "probability": 9.5401019912815e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 2154400,
+              "probability": 0.00101959840031821
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 442000,
+              "probability": 0.00702738589757782
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 116000,
+              "probability": 0.032208852030565
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 49000,
+              "probability": 0.099387314837172
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 16800,
+              "probability": 0.205762800248833
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 200,
+              "probability": 0.279729819946126
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 2000,
+              "probability": 0.237770346954207
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 11000,
+              "probability": 0.113765716246032
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 44000,
+              "probability": 0.0232271670668982
+            }
+          ]
+        },
+        {
+          "selectCount": 13,
+          "name": "复式13选9",
+          "costFen": 143000,
+          "outcomes": [
+            {
+              "matchCount": 13,
+              "amountFen": 17875000000,
+              "probability": 2.45988809208964e-10
+            },
+            {
+              "matchCount": 12,
+              "amountFen": 5599000000,
+              "probability": 2.3983908897874e-08
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 1448425000,
+              "probability": 9.43367083316376e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 285562000,
+              "probability": 2.00622733051949e-05
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 37862200,
+              "probability": 0.000259897631453661
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 3577000,
+              "probability": 0.00218314010421076
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 866000,
+              "probability": 0.0123151493058043
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 276500,
+              "probability": 0.0475012901795307
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 119000,
+              "probability": 0.125878418975756
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 38000,
+              "probability": 0.227280478706227
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 2000,
+              "probability": 0.272736574447472
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 11000,
+              "probability": 0.206618617005661
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 44000,
+              "probability": 0.0888097564322577
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 143000,
+              "probability": 0.0163956473413399
+            }
+          ]
+        },
+        {
+          "selectCount": 14,
+          "name": "复式14选9",
+          "costFen": 400400,
+          "outcomes": [
+            {
+              "matchCount": 14,
+              "amountFen": 50050000000,
+              "probability": 2.57003233501902e-11
+            },
+            {
+              "matchCount": 13,
+              "amountFen": 18132400000,
+              "probability": 3.08403880202283e-09
+            },
+            {
+              "matchCount": 12,
+              "amountFen": 5715820000,
+              "probability": 1.47841110071969e-07
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 1497291400,
+              "probability": 3.81101528185521e-06
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 304174000,
+              "probability": 5.97376645430804e-05
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 44300800,
+              "probability": 0.000608238038984091
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 5678000,
+              "probability": 0.00418163651801563
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1599500,
+              "probability": 0.0198512854481621
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 585200,
+              "probability": 0.065757383047037
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 252200,
+              "probability": 0.151972618597597
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 77600,
+              "probability": 0.242206360889919
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 11000,
+              "probability": 0.259044236245903
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 44000,
+              "probability": 0.176293994111795
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 143000,
+              "probability": 0.0685191232175398
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 400400,
+              "probability": 0.0115014242543728
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pickCount": 10,
+      "name": "选十",
+      "compounds": [
+        {
+          "selectCount": 11,
+          "name": "复式11选10",
+          "costFen": 2200,
+          "outcomes": [
+            {
+              "matchCount": 11,
+              "amountFen": 5500000000,
+              "probability": 1.60302707334508e-08
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 508000000,
+              "probability": 1.05799786840775e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 2248000,
+              "probability": 2.83735791982079e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 280000,
+              "probability": 0.000411416898374015
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 35500,
+              "probability": 0.0036078097242029
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 4300,
+              "probability": 0.0202037344555362
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 1800,
+              "probability": 0.0740803596702995
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 0,
+              "probability": 0.178586581348043
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.278384965042538
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 0,
+              "probability": 0.268074410781704
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 200,
+              "probability": 0.14391363105123
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 2200,
+              "probability": 0.0327076434207342
+            }
+          ]
+        },
+        {
+          "selectCount": 12,
+          "name": "复式12选10",
+          "costFen": 13200,
+          "outcomes": [
+            {
+              "matchCount": 12,
+              "amountFen": 33000000000,
+              "probability": 2.09090487827619e-09
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 5544000000,
+              "probability": 1.67272390262095e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 519240000,
+              "probability": 5.42798906400499e-06
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 4632000,
+              "probability": 9.5401019912815e-05
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 702000,
+              "probability": 0.00101959840031821
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 103800,
+              "probability": 0.00702738589757782
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 18300,
+              "probability": 0.032208852030565
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 6300,
+              "probability": 0.099387314837172
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 0,
+              "probability": 0.205762800248833
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 0,
+              "probability": 0.279729819946126
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 200,
+              "probability": 0.237770346954207
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 2200,
+              "probability": 0.113765716246032
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 13200,
+              "probability": 0.0232271670668982
+            }
+          ]
+        },
+        {
+          "selectCount": 13,
+          "name": "复式13选10",
+          "costFen": 57200,
+          "outcomes": [
+            {
+              "matchCount": 13,
+              "amountFen": 143000000000,
+              "probability": 2.45988809208964e-10
+            },
+            {
+              "matchCount": 12,
+              "amountFen": 33176000000,
+              "probability": 2.3983908897874e-08
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 5599880000,
+              "probability": 9.43367083316376e-07
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 534680000,
+              "probability": 2.00622733051949e-05
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 8282000,
+              "probability": 0.000259897631453661
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 1446800,
+              "probability": 0.00218314010421076
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 250300,
+              "probability": 0.0123151493058043
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 55300,
+              "probability": 0.0475012901795307
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 16800,
+              "probability": 0.125878418975756
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 0,
+              "probability": 0.227280478706227
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 200,
+              "probability": 0.272736574447472
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 2200,
+              "probability": 0.206618617005661
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 13200,
+              "probability": 0.0888097564322577
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 57200,
+              "probability": 0.0163956473413399
+            }
+          ]
+        },
+        {
+          "selectCount": 14,
+          "name": "复式14选10",
+          "costFen": 200200,
+          "outcomes": [
+            {
+              "matchCount": 14,
+              "amountFen": 500500000000,
+              "probability": 2.57003233501902e-11
+            },
+            {
+              "matchCount": 13,
+              "amountFen": 143572000000,
+              "probability": 3.08403880202283e-09
+            },
+            {
+              "matchCount": 12,
+              "amountFen": 33387640000,
+              "probability": 1.47841110071969e-07
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 5670280000,
+              "probability": 3.81101528185521e-06
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 555385000,
+              "probability": 5.97376645430804e-05
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 13607800,
+              "probability": 0.000608238038984091
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 2670800,
+              "probability": 0.00418163651801563
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 534800,
+              "probability": 0.0198512854481621
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 135800,
+              "probability": 0.065757383047037
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 37800,
+              "probability": 0.151972618597597
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 200,
+              "probability": 0.242206360889919
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 2200,
+              "probability": 0.259044236245903
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 13200,
+              "probability": 0.176293994111795
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 57200,
+              "probability": 0.0685191232175398
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 200200,
+              "probability": 0.0115014242543728
+            }
+          ]
+        },
+        {
+          "selectCount": 15,
+          "name": "复式15选10",
+          "costFen": 600600,
+          "outcomes": [
+            {
+              "matchCount": 15,
+              "amountFen": 1501500000000,
+              "probability": 2.33639303183548e-12
+            },
+            {
+              "matchCount": 14,
+              "amountFen": 502101600000,
+              "probability": 3.50458954775321e-10
+            },
+            {
+              "matchCount": 13,
+              "amountFen": 144236664000,
+              "probability": 2.0677078331744e-08
+            },
+            {
+              "matchCount": 12,
+              "amountFen": 33641256000,
+              "probability": 6.49604877588956e-07
+            },
+            {
+              "matchCount": 11,
+              "amountFen": 5758071000,
+              "probability": 1.23424926741902e-05
+            },
+            {
+              "matchCount": 10,
+              "amountFen": 582600600,
+              "probability": 0.000152059509746023
+            },
+            {
+              "matchCount": 9,
+              "amountFen": 21136800,
+              "probability": 0.00126716258121686
+            },
+            {
+              "matchCount": 8,
+              "amountFen": 4594800,
+              "probability": 0.00733144064846896
+            },
+            {
+              "matchCount": 7,
+              "amountFen": 1045800,
+              "probability": 0.029889719566835
+            },
+            {
+              "matchCount": 6,
+              "amountFen": 289800,
+              "probability": 0.0863480787486344
+            },
+            {
+              "matchCount": 5,
+              "amountFen": 75800,
+              "probability": 0.176150080647214
+            },
+            {
+              "matchCount": 4,
+              "amountFen": 2200,
+              "probability": 0.25021318273752
+            },
+            {
+              "matchCount": 3,
+              "amountFen": 13200,
+              "probability": 0.240400901061539
+            },
+            {
+              "matchCount": 2,
+              "amountFen": 57200,
+              "probability": 0.14793901603787
+            },
+            {
+              "matchCount": 1,
+              "amountFen": 200200,
+              "probability": 0.0522792011562398
+            },
+            {
+              "matchCount": 0,
+              "amountFen": 600600,
+              "probability": 0.00801614417729011
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
